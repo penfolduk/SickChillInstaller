@@ -15,7 +15,7 @@
 #define DefaultPort 8081
 
 #define InstallerVersion 10006
-#define InstallerSeedUrl "https://raw.githubusercontent.com/SickChill/SickChillInstaller/master/seed.ini"
+#define InstallerSeedUrl "https://github.com/penfolduk/SickChillInstaller/master/seed.ini"
 #define AppRepoUrl "https://github.com/SickChill/SickChill.git"
 
 [Setup]
